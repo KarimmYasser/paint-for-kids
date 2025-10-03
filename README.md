@@ -1,5 +1,7 @@
 # Paint for Kids
 
+![Paint Cover](paint_for_kids_cover.jpg)
+
 A C++ educational drawing application designed specifically for children, featuring both drawing and interactive gaming modes. The application provides a simple, colorful interface that allows kids to create shapes and play educational games.
 
 ## 🎨 Project Overview
